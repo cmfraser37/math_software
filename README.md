@@ -1,5 +1,5 @@
 # math_software
-Old math research code I wrote to support the papers "Braid group symmetries of Grassmannian cluster algebras" and "Quantum affine algebras and Grassmannians", all code is written in SAGE (and designed to run with Python 2). 
+Old math research code I wrote to support the papers "Braid group symmetries of Grassmannian cluster algebras,"  "Quantum affine algebras and Grassmannians", and "Tensor diagrams and cluster combinatorics at punctures." All code is written in SAGE (and designed to run with Python 2). 
 
 The code is here so potential employers can look at the kind of code I was writing to do my math research. 
 
